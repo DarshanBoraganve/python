@@ -7,6 +7,6 @@ class programmer:
     def info(self):
         print(f" the name of the programmer is {self.name} and the product is{self.product}")
 harry=programmer("darshan"," skype")
-alka=programmer("rushikesh", " reva")
-harry.info()
+alka=programmer("rushikesh", " reva"
 alka.info()
+print(harry.info())
