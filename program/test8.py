@@ -1,0 +1,9 @@
+str='create'
+l=len(str)
+n=int(l/2)-1
+res=str[n]
+m=int(l/2)
+res=res+str[m]
+k=int(l/2)+1
+res=res+str[k]
+print(res)
